@@ -1,6 +1,6 @@
 <img src="https://th.bing.com/th/id/OIP.bm37sqHqA7F_EINudy2UPAHaEK?rs=1&pid=ImgDetMain" alt="Girl in a jacket" height="400" width="1500">
 <h1 align="center">Hi 👋, I'm MAAZ QURESHI</h1>
-<h3 align="center">A passionate frontend developer from pakistan</h3>
+<h3 align="center">programer from pakistan</h3>
 <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="Girl in a jacket" align="right" width="400">
 
     <p align="left"> <img src="https://komarev.com/ghpvc/?username=maaz-qureshi913&label=Profile%20views&color=0e75b6&style=flat" alt="maaz-qureshi913" /> </p>
