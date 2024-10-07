@@ -1,4 +1,4 @@
-<img src="https://media.licdn.com/dms/image/v2/D5616AQGSzDP2aZ6b_g/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1727699955441?e=1733356800&v=beta&t=aBklyHNkHHXCQa5pJrGEKv08233xV7VPhydkHhKZyEo" alt="Girl in a jacket" height="250" width="2500">
+<img src="https://media.licdn.com/dms/image/v2/D5616AQGSzDP2aZ6b_g/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1727699955441?e=1733356800&v=beta&t=aBklyHNkHHXCQa5pJrGEKv08233xV7VPhydkHhKZyEo" alt="Girl in a jacket" >
 <h1 align="center">Hi 👋, I'm MAAZ QURESHI</h1>
 <h3 align="center">A Professional Developer from Pakistan</h3>
 <img src="https://th.bing.com/th/id/OIP.gReLR6hZjwyBxHmfLN1AVwHaFj?rs=1&pid=ImgDetMain" alt="Girl in a jacket" align="right" width="400">
